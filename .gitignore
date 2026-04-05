@@ -1,0 +1,8 @@
+*~
+*.o
+*.log
+*.pdf
+*.tex
+*.backup
+main
+out
